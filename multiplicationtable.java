@@ -6,10 +6,7 @@ public class multiplicationtable {
         int n=sc.nextInt();
         for(int i=0;i<=10;i++){
             System.out.println(n+" x "+ i +" = "+ n*i);
-        }
-
-
-    
-        
+        } 
     }
 }
+
